@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\Projects\Medikal\Medikal\Medikal\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="ActicationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CheckYourWlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Anasayfa\AnasayfaView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="View\Gecmis\GecmisDetay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Gecmis\GecmisListView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="View\Hastalar\HastaEklDznleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Hastalar\HastalarListView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="View\Hastalar\HastaRaporlariForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Hastalar\HastaRprEklDznlForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\infoBox\InfBxView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="View\Kullanicilar\KullaniciEkleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Kullanicilar\KullanicilarView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="View\Satis\SatisView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="View\Satis\UrunEkleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Urunler\UrnDetayForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Urunler\UrunEklDznleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Urunler\UrunlerListView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="View\YedekIslemleri\KullaniciEkleDznleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\YedekIslemleri\YonetView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
